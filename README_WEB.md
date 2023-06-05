@@ -1,4 +1,4 @@
-# Web Functional Testing Framework using Selenium with Java, Cucumber, and Gherkin
+# WEB CHALLENGE using Selenium with Java, Cucumber, and Gherkin
 
 This project is a web functional testing framework that utilizes Selenium WebDriver with Java, Cucumber, and Gherkin. 
 
