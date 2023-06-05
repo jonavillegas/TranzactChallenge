@@ -26,7 +26,7 @@ The report displays information such as executed scenarios, their status (pass, 
 
 ## Project Structure
 
-The project follows a typical Maven structure, with the main directories and files organized as follows:
+The project follows a Maven structure, with the main directories and files organized as follows:
 
 src
   main
