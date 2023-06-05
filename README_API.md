@@ -1,4 +1,4 @@
-# Service Framework using Karate DSL
+# API CHALLENGE using Karate DSL, BDD, MAVEN
 
 This project is a service framework that utilizes Karate DSL, a Behavior Driven Development (BDD) testing framework based on Gherkin, to perform web service testing.
 
